@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+}
+
+.in {
+    background-color: #4CAF50;
+    /* Green */
+    color: white;
+}
+
+.de {
+    background-color: #f44336;
+    /* Red */
+    color: white;
+}
+
+.res {
+    background-color: #008CBA;
+    /* Blue */
+    color: white;
+}
